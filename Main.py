@@ -1,4 +1,4 @@
-#Authors: Jakobi Wells
+#Authors: Jakobi Wells, Jackson Wray
 import networkx as nx
 import sys
 
