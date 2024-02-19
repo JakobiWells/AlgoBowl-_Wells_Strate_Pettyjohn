@@ -1,3 +1,4 @@
+#Authors: Jakobi Wells
 import networkx as nx
 import sys
 
